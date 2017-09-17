@@ -3,6 +3,8 @@
   "private": true,
   "dependencies": {
     "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0",
+    "postcss": "^6.0.11",
     "react": "^15.6.1",
     "webpacker": "0.0.3"
   }
